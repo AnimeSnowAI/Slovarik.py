@@ -1,0 +1,1 @@
+# Slovarik.py
